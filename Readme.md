@@ -38,8 +38,8 @@ A mobile app developed with React Native and Expo, showcasing recent images from
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-photo-gallery-app.git
-   cd your-photo-gallery-app
+   git clone https://github.com/raunakkumar2005/gallery.git
+   cd Gallery
 
 2. **Install dependencies**
 
